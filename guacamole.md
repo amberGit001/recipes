@@ -5,4 +5,4 @@
         * salt
     ## Instructions
 
-    # Add a change for GitHub push/pull
+    # Replace this string for collaboration exercise
