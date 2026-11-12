@@ -4,5 +4,4 @@
         * lemon
         * salt
     ## Instructions
-
-    # Replace this string for collaboration exercise
+        * put one avocado into a bowl
